@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\mjnhb\onedrive\c2 실습자료\project_20165154_이준상\project\consoleapplication2\source.cpp(174): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+c:\users\mjnhb\onedrive\c2 실습자료\project_20165154_이준상\project\consoleapplication2\source.cpp(208): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\users\mjnhb\onedrive\c2 실습자료\project_20165154_이준상\project\consoleapplication2\source.cpp(232): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: see declaration of 'getch'
+  ConsoleApplication2.vcxproj -> C:\Users\mjnhb\OneDrive\c2 실습자료\Project_20165154_이준상\Project\Debug\ConsoleApplication2.exe
+  ConsoleApplication2.vcxproj -> C:\Users\mjnhb\OneDrive\c2 실습자료\Project_20165154_이준상\Project\Debug\ConsoleApplication2.pdb (Partial PDB)
